@@ -1,6 +1,6 @@
 # 🌍 World Happiness Report 2021 Dashboard
 
-![Power BI Screenshot](./Screenshot (114).png). 
+![Power BI Screenshot](./Screenshot_(114).png). 
 
 ## 📈 Overview
 Dashboard ini menganalisis dataset **World Happiness Report 2021** menggunakan **Power BI**, menampilkan distribusi skor kebahagiaan antar negara, keterkaitannya dengan GDP per kapita, serta distribusi berdasarkan region secara interaktif.
