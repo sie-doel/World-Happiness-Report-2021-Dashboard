@@ -40,3 +40,42 @@ Visualisasi ini membantu memahami:
 ---
 
 ## 📂 Folder Structure
+📦 world-happiness-dashboard
+┣ 📜 README.md
+┣ 📜 World_Happiness_Report_2021.pbix
+┗ 📜 world_happiness_2021.csv
+
+---
+
+## 🔗 Live Dashboard
+Lihat dashboard interaktif di Power BI:  
+[🌐 View on Power BI](https://app.powerbi.com/groups/me/reports/43fe6ef6-6795-46ce-a363-7348931198f9?ctid=508916a0-7b89-43a1-af4e-72fe15aba5b9&pbi_source=linkShare)
+
+---
+
+## 💡 How to Use
+1. **Download repository** dan buka `World_Happiness_Report_2021.pbix` menggunakan Power BI Desktop.
+2. Jika ingin menggunakan dataset lain, replace `world_happiness_2021.csv` dan lakukan refresh pada Power BI.
+3. Eksplorasi insight dari dashboard interaktif untuk memahami pola kebahagiaan global.
+
+---
+
+## 🤝 Contribution
+Pull request untuk perbaikan dokumentasi, insight analisis tambahan, atau rekomendasi visualisasi tambahan dipersilakan.
+
+---
+
+## 📬 Contact
+Jika ingin diskusi kolaborasi data project atau mentoring Power BI:
+- 📧 [abdulpaintar@gmail.com](mailto:abdulpaintar@gmail.com)
+- 💼 [LinkedIn Abdul Ghofur](https://www.linkedin.com/in/abdul-ghofur-9940b3374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+## ⭐ Acknowledgment
+- [Kaggle World Happiness Report 2021](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021)
+- [Power BI](https://powerbi.microsoft.com/)
+
+---
+
+**⭐ Jika repo ini membantu, silakan berikan star untuk mendukung pengembangan portofolio open-source saya.**
